@@ -1,3 +1,4 @@
+/*
 #if canImport(GameKit)
   import GameKit
 
@@ -112,3 +113,4 @@
     }
   }
 #endif
+*/
